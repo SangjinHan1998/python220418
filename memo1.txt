@@ -1,0 +1,42 @@
+함수를 사용하는 이유
+
+재사용성이 좋아진다. (Good code reusabilty)
+유지보수 편리해진다.    (convenient maintenance)
+가독성이 좋아진다.  (better readability)
+
+
+- basic function -
+* define
+def Function_name():
+    order_block
+
+* call
+Function_name() 
+
+-function having parameter -
+* define
+def Function_name(parameter1, parameter2):
+    order_block
+
+* call 
+Function_name(parameter1, parameter2)
+
+- function having return value -
+*define
+def Function_name()
+    order_block
+    return return-value
+
+*call 
+Function_name()
+
+
+-function having parameter and return-value-
+*define
+def Function_name(parameter1, parameter2):
+    order_block
+    return return-value
+
+*call 
+Function_name(factor1, factor2)
+
